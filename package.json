@@ -2,5 +2,6 @@
   "author": "SANDEEP BORHADE",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "description": "This is a microservice."
 }
