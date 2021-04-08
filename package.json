@@ -3,5 +3,6 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "description": "This is a microservice."
+  "description": "This is a microservice.",
+  "keywords": [ "freecodecamp", "node", "server side javascript" ]
 }
